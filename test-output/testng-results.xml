@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5055" started-at="2021-05-30T18:06:46 IST" finished-at="2021-05-30T18:06:51 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5055" started-at="2021-05-30T18:06:46 IST" finished-at="2021-05-30T18:06:51 IST">
+      <class name="com.swagger.restAssured.ApiBackground.ApiPlayground_ServicesApiTests">
+        <test-method status="PASS" signature="postData()[pri:0, instance:com.swagger.restAssured.ApiBackground.ApiPlayground_ServicesApiTests@37d31475]" name="postData" is-config="true" duration-ms="683" started-at="2021-05-30T18:06:46 IST" finished-at="2021-05-30T18:06:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postData -->
+        <test-method status="PASS" signature="apiPlayBackgroup_GetAllServices()[pri:1, instance:com.swagger.restAssured.ApiBackground.ApiPlayground_ServicesApiTests@37d31475]" name="apiPlayBackgroup_GetAllServices" duration-ms="3430" started-at="2021-05-30T18:06:47 IST" finished-at="2021-05-30T18:06:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- apiPlayBackgroup_GetAllServices -->
+        <test-method status="PASS" signature="apiPlayBackgroup_GetServiceByID()[pri:2, instance:com.swagger.restAssured.ApiBackground.ApiPlayground_ServicesApiTests@37d31475]" name="apiPlayBackgroup_GetServiceByID" duration-ms="142" started-at="2021-05-30T18:06:50 IST" finished-at="2021-05-30T18:06:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- apiPlayBackgroup_GetServiceByID -->
+        <test-method status="PASS" signature="apiPlayBackgroup_AddService()[pri:3, instance:com.swagger.restAssured.ApiBackground.ApiPlayground_ServicesApiTests@37d31475]" name="apiPlayBackgroup_AddService" duration-ms="551" started-at="2021-05-30T18:06:51 IST" finished-at="2021-05-30T18:06:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- apiPlayBackgroup_AddService -->
+        <test-method status="PASS" signature="apiPlayBackgroup_PatchService()[pri:4, instance:com.swagger.restAssured.ApiBackground.ApiPlayground_ServicesApiTests@37d31475]" name="apiPlayBackgroup_PatchService" duration-ms="89" started-at="2021-05-30T18:06:51 IST" finished-at="2021-05-30T18:06:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- apiPlayBackgroup_PatchService -->
+        <test-method status="PASS" signature="apiPlayBackgroup_DeleteService()[pri:5, instance:com.swagger.restAssured.ApiBackground.ApiPlayground_ServicesApiTests@37d31475]" name="apiPlayBackgroup_DeleteService" duration-ms="101" started-at="2021-05-30T18:06:51 IST" finished-at="2021-05-30T18:06:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- apiPlayBackgroup_DeleteService -->
+      </class> <!-- com.swagger.restAssured.ApiBackground.ApiPlayground_ServicesApiTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
